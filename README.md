@@ -1,9 +1,6 @@
 # Olá, eu sou Marco Antônio! 👋
 
-<div align="center">
-  <!-- Dynamic Banner with your name and technologies -->
-  <img src="https://github-readme-header-generator.vercel.app/api?header=MARCO+ANTÔNIO&subheader=Desenvolvedor+Java+|+Spring+Boot&bg_color=0d1117&text_color=58a6ff" alt="Banner Marco Antônio" width="100%">
-  
+
   <!-- Profile View Counter -->
   [![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&style=flat&label=Profile+Views)](https://github.com/marcoladograu157)
 </div>

@@ -1,10 +1,11 @@
 # Olá, eu sou Marco Antônio! 👋
 
-[![Banner Personalizado](https://github-readme-header-generator.vercel.app/api?text=Marco+Antônio+-+Java+Developer&subtext=Desenvolvedor+Backend+Spring+Boot&bg_color=0d1117&text_color=58a6ff)](https://github.com/marcoladograu157)
+# Olá, eu sou Marco Antônio! 👋
 
-[![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&style=flat-square)](https://github.com/marcoladograu157)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-gomes-240973248)
+<img src="https://user-images.githubusercontent.com/80075307/216846559-022437b2-8a4e-4f7b-a7e9-2d5a7b4f9a1f.png" alt="Banner Marco Antônio - Java Developer" width="100%">
 
+[![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&label=Profile+Views)](https://github.com/marcoladograu157)
+[... resto do conteúdo ...]
 ## 🚀 Sobre Mim
 [... resto do conteúdo permanece igual ...]
 ## 🚀 Sobre Mim

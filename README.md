@@ -1,5 +1,5 @@
 # Olá, eu sou Marco Antonio! 👋
-
+![Banner](https://via.placeholder.com/1920x400/0d1117/58a6ff?text=Marco+Antônio+-+Java+Developer)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=marcoladograu157.marcoladograu157)](https://github.com/marcoladograu157)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
 

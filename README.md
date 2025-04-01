@@ -1,9 +1,21 @@
 # Olá, eu sou Marco Antônio! 👋
 
-<img src="https://user-images.githubusercontent.com/80075307/216846559-022437b2-8a4e-4f7b-a7e9-2d5a7b4f9a1f.png" alt="Banner Marco Antônio - Java Developer" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/80075307/236677386-1c1a8b3f-4a4f-4f5d-9b7d-3b3e3b3e3b3e" alt="Banner Marco Antônio - Java Developer" width="100%">
+</div>
 
 [![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&label=Profile+Views)](https://github.com/marcoladograu157)
 
+<div align="center">
+  <svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#0d1117"/>
+    <rect x="20" y="20" width="1160" height="360" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+    <text x="50%" y="45%" font-family="Arial" font-size="60" font-weight="bold" fill="#58a6ff" text-anchor="middle">MARCO ANTÔNIO</text>
+    <text x="50%" y="55%" font-family="Arial" font-size="30" fill="#c9d1d9" text-anchor="middle">Desenvolvedor Java | Spring Boot | MySQL</text>
+    <image x="80%" y="70%" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"/>
+    <image x="85%" y="70%" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" height="80"/>
+  </svg>
+</div>
 ## 🚀 Sobre Mim
 Profissional em transição da Educação Física para Tecnologia, com foco em Desenvolvimento Backend (Java/Spring) e habilidades em:
 

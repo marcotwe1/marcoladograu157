@@ -5,9 +5,7 @@
 <img src="https://user-images.githubusercontent.com/80075307/216846559-022437b2-8a4e-4f7b-a7e9-2d5a7b4f9a1f.png" alt="Banner Marco Antônio - Java Developer" width="100%">
 
 [![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&label=Profile+Views)](https://github.com/marcoladograu157)
-[... resto do conteúdo ...]
-## 🚀 Sobre Mim
-[... resto do conteúdo permanece igual ...]
+
 ## 🚀 Sobre Mim
 Profissional em transição da Educação Física para Tecnologia, com foco em Desenvolvimento Backend (Java/Spring) e habilidades em:
 

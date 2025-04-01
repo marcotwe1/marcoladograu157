@@ -1,62 +1,49 @@
 # Olá, eu sou Marco Antônio! 👋
+
 <div align="center">
-  <svg width="100%" height="300px" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-    <!-- Fundo gradiente -->
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0d1117"/>
-        <stop offset="100%" stop-color="#161b22"/>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100%" fill="url(#gradient)"/>
-    
-    <!-- Texto principal -->
-    <text x="50%" y="45%" font-family="Arial" font-size="48" font-weight="bold" fill="#58a6ff" text-anchor="middle" dominant-baseline="middle">MARCO ANTÔNIO</text>
-    
-    <!-- Subtítulo -->
-    <text x="50%" y="60%" font-family="Arial" font-size="24" fill="#c9d1d9" text-anchor="middle" dominant-baseline="middle">Desenvolvedor Backend | Java | Spring Boot</text>
-    
-    <!-- Ícones de tecnologias -->
-    <image x="40%" y="70%" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-    <image x="45%" y="70%" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-    <image x="50%" y="70%" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <image x="55%" y="70%" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </svg>
+  <!-- Dynamic Banner with your name and technologies -->
+  <img src="https://github-readme-header-generator.vercel.app/api?header=MARCO+ANTÔNIO&subheader=Desenvolvedor+Java+|+Spring+Boot&bg_color=0d1117&text_color=58a6ff" alt="Banner Marco Antônio" width="100%">
+  
+  <!-- Profile View Counter -->
+  [![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&style=flat&label=Profile+Views)](https://github.com/marcoladograu157)
 </div>
 
 ## 🚀 Sobre Mim
-Profissional em transição da Educação Física para Tecnologia, com foco em Desenvolvimento Backend (Java/Spring) e habilidades em:
+Profissional em transição da Educação Física para Tecnologia, com foco em Desenvolvimento Backend Java. Apaixonado por criar soluções robustas e escaláveis usando:
 
 <div align="center">
+  <!-- Technology Badges -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div align="center">
+  <!-- GitHub Stats Cards -->
   <a href="https://github.com/marcoladograu157">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcoladograu157&theme=navy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" style="border-radius: 10px; width: 48%; margin-bottom: 10px;"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcoladograu157&show_icons=true&theme=navy&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true" alt="GitHub Stats">
   </a>
   <a href="https://github.com/marcoladograu157">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoladograu157&theme=navy&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" style="border-radius: 10px; width: 48%; margin-bottom: 10px;"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoladograu157&layout=compact&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&hide=html,css" alt="Top Languages">
   </a>
 </div>
 
 ---
 
-## 🔥 Projetos em Destaque
+## 🏆 Projetos em Destaque
 
 <div align="center">
 
-| Projeto | Tecnologias | Descrição |
-|---------|------------|-----------|
-| [API Academia](https://github.com/marcoladograu157/academia-api) | Java, Spring Boot | API REST para gestão de academias com JWT |
-| [Sistema de Cadastro](https://github.com/marcoladograu157/crud-mysql) | Java, Hibernate | CRUD completo com MySQL e interface web |
+| Projeto | Tecnologias | Descrição | Status |
+|---------|------------|-----------|--------|
+| [Sistema Academia](https://github.com/marcoladograu157/academia-api) | Java, Spring Boot, MySQL | API completa para gestão de academias com autenticação JWT | 🚀 Em desenvolvimento |
+| [CRUD Avançado](https://github.com/marcoladograu157/crud-mysql) | Java, Hibernate, Bootstrap | Sistema web completo com cadastro de usuários e produtos | ✅ Concluído |
 
 </div>
 
@@ -64,27 +51,33 @@ Profissional em transição da Educação Física para Tecnologia, com foco em D
 
 ## 📌 Repositórios Fixados
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <a href="https://github.com/marcoladograu157/academia-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=academia-api&theme=navy" style="border-radius: 10px;"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=academia-api&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Academia API">
   </a>
   <a href="https://github.com/marcoladograu157/crud-mysql">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=crud-mysql&theme=navy" style="border-radius: 10px;"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=crud-mysql&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="CRUD MySQL">
   </a>
 </div>
 
 ---
 
-## 📩 Contato
+## 📬 Contato
 
 <div align="center">
+  <!-- Contact Badges -->
   <a href="mailto:marco_gomesougaldino@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/marco-gomes-240973248">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/marcoladograu157">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</div>
+
+<!-- Optional Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer" alt="Footer Wave">
 </div>

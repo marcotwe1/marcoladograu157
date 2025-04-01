@@ -1,9 +1,12 @@
 # Olá, eu sou Marco Antônio! 👋
-[![Banner](https://github-readme-header-generator.vercel.app/api?title=Marco%20Antônio%20%20Java%20Developer&subtitle=Desenvolvedor%20Backend%20|%20Spring%20Boot%20|%20MySQL&bg=0d1117&color=58a6ff)](https://github.com/marcoladograu157)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=marcoladograu157.marcoladograu157)](https://github.com/marcoladograu157)
+[![Banner Personalizado](https://github-readme-header-generator.vercel.app/api?text=Marco+Antônio+-+Java+Developer&subtext=Desenvolvedor+Backend+Spring+Boot&bg_color=0d1117&text_color=58a6ff)](https://github.com/marcoladograu157)
+
+[![Visitors](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&style=flat-square)](https://github.com/marcoladograu157)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-gomes-240973248)
 
+## 🚀 Sobre Mim
+[... resto do conteúdo permanece igual ...]
 ## 🚀 Sobre Mim
 Profissional em transição da Educação Física para Tecnologia, com foco em Desenvolvimento Backend (Java/Spring) e habilidades em:
 

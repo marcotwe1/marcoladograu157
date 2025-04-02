@@ -39,7 +39,7 @@ Profissional em transição da Educação Física para Tecnologia, com foco em D
 
 | Projeto | Tecnologias | Descrição | Status |
 |---------|------------|-----------|--------|
-| [[Sistema SurfAulas](https://github.com/marcoladograu157/academia-api)](https://github.com/marcoladograu157/Projeto-Loja-de-surf-1-modulo.git) | Java| O arquivo sistemaStudySurf.java é um sistema de gestão para uma escola de surf, desenvolvido em Java, que permite cadastrar alunos, professores, agendar aulas, gerar relatórios e gerenciar mensalidades. 🚀 ✅ Concluídoo |
+| [[Sistema SurfAulas](https://github.com/marcoladograu157/academia-api)](https://github.com/marcoladograu157/Projeto-Loja-de-surf-1-modulo.git) | Java| O arquivo sistemaStudySurf.java é um sistema de gestão para uma escola de surf, desenvolvido em Java, que permite cadastrar alunos, professores, agendar aulas, gerar relatórios e gerenciar mensalidades. |✅ Concluídoo 
 | [CRUD Avançado](https://github.com/marcoladograu157/crud-mysql) | Java, Hibernate, Bootstrap | Sistema web completo com cadastro de usuários e produtos | 🚀 Desenvolvimento|
 
 </div>

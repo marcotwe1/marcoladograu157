@@ -22,11 +22,11 @@ Atualmente estudo e desenvolvo aplicações com:
 
 ## 🗺️ Minha Jornada
 
-- 🎓 Formação em Educação Física
-- 💡 Interesse crescente por tecnologia e lógica
-- 💻 Comecei a estudar Java no fim de 2023
-- 🚀 Criei meus primeiros projetos pessoais em 2024
-- 🎯 Em busca da primeira oportunidade como Desenvolvedor Backend
+- 🎓 Formação em Educação Física  
+- 💡 Interesse crescente por tecnologia e lógica  
+- 💻 Comecei a estudar Java no fim de 2023  
+- 🚀 Criei meus primeiros projetos pessoais em 2024  
+- 🎯 Em busca da primeira oportunidade como Desenvolvedor Backend  
 
 ---
 
@@ -41,16 +41,26 @@ Atualmente estudo e desenvolvo aplicações com:
 
 ---
 
+### 🧠 Atualmente aprendendo
+
+- Docker  
+- Testes com JUnit  
+- Microserviços com Spring Cloud  
+
+---
+
 ## 🎓 Certificações e Cursos
 
 - Java COMPLETO: POO + Projetos (Udemy)  
 - Spring Boot na Prática (Alura)  
 - Bootcamp Backend Java (DIO + Santander)  
-- Fundamentos da Programação Orientada a Objetos (Alura)
+- Fundamentos da Programação Orientada a Objetos (Alura)  
 
 ---
 
 ## 🏆 Projetos em Destaque
+
+Aqui estão alguns projetos que representam bem minha evolução prática como desenvolvedor backend:
 
 <div align="center">
 
@@ -64,6 +74,8 @@ Atualmente estudo e desenvolvo aplicações com:
 ---
 
 ## 📌 Repositórios Fixados
+
+Esses são os projetos que considero mais relevantes no momento:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <a href="https://github.com/marcoladograu157/academia-api">
@@ -91,9 +103,9 @@ Atualmente estudo e desenvolvo aplicações com:
 
 ## 🤝 Como posso te ajudar?
 
-- Dúvidas sobre lógica de programação e Java iniciante  
-- Compartilhar experiência de transição de carreira  
-- Revisar projetos simples de backend
+- 💬 Dúvidas sobre lógica de programação e Java iniciante  
+- 🔄 Compartilhar experiência de transição de carreira  
+- 🔍 Revisar projetos simples de backend  
 
 ---
 
@@ -110,6 +122,8 @@ Atualmente estudo e desenvolvo aplicações com:
     <img src="https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer">

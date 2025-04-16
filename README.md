@@ -45,7 +45,8 @@ Atualmente estudo e desenvolvo aplicações com:
 
 - Docker  
 - Testes com JUnit  
-- Microserviços com Spring Cloud  
+- Microserviços com Spring Cloud
+- Ingles Aulas particulares
 
 ---
 

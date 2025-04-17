@@ -76,7 +76,6 @@ Aqui estão alguns projetos que representam bem minha evolução prática como d
 ## 📌 Repositórios Fixados
 
 Esses são os projetos que considero mais relevantes no momento:
-
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <a href="https://github.com/marcotwe1/academia-api">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotwe1&repo=academia-api&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
@@ -85,6 +84,7 @@ Esses são os projetos que considero mais relevantes no momento:
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotwe1&repo=crud-mysql&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
   </a>
 </div>
+
 
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Marco Antônio!
+# Olá, eu sou o Marco Antônio! 👋
 
 <!-- Contador de Visitas -->
 [![Visualizações de Perfil](https://komarev.com/ghpvc/?username=marcoladograu157&color=58a6ff&style=flat&label=Profile+Views)](https://github.com/marcoladograu157)
@@ -9,12 +9,14 @@
 
 Sou um profissional em transição da Educação Física para a área de **Tecnologia**, com foco em **Desenvolvimento Backend Java**. Curioso por natureza, movido a desafios e apaixonado por construir soluções que gerem impacto real.
 
-Atualmente estudo e desenvolvo aplicações com:  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+Atualmente estudo e desenvolvo aplicações com:
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</div>
 
 ---
 
@@ -60,10 +62,14 @@ Atualmente estudo e desenvolvo aplicações com:
 
 Aqui estão alguns projetos que representam bem minha evolução prática como desenvolvedor backend:
 
+<div align="center">
+
 | Projeto | Tecnologias | Descrição | Status |
 |--------|-------------|-----------|--------|
 | [Sistema SurfAulas](https://github.com/marcoladograu157/Projeto-Loja-de-surf-1-modulo.git) | Java | Sistema de gestão para escola de surf: cadastro de alunos, professores, agendamentos e relatórios. | ✅ Finalizado |
 | [CRUD Avançado](https://github.com/marcoladograu157/crud-mysql) | Java, Hibernate, Bootstrap | Sistema web com cadastro de usuários e produtos. | 🚧 Em desenvolvimento |
+
+</div>
 
 ---
 
@@ -71,27 +77,27 @@ Aqui estão alguns projetos que representam bem minha evolução prática como d
 
 Esses são os projetos que considero mais relevantes no momento:
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <a href="https://github.com/marcoladograu157/academia-api">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=academia-api&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
   </a>
   <a href="https://github.com/marcoladograu157/crud-mysql">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=crud-mysql&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
   </a>
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/marcoladograu157">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcoladograu157&show_icons=true&theme=navy&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true">
   </a>
   <a href="https://github.com/marcoladograu157">
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoladograu157&layout=compact&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&hide=php,python&langs_count=6">
   </a>
-</p>
+</div>
 
 ---
 
@@ -105,7 +111,7 @@ Esses são os projetos que considero mais relevantes no momento:
 
 ## 📬 Contato
 
-<p align="center">
+<div align="center">
   <a href="mailto:marco_gomesougaldino@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
@@ -115,11 +121,10 @@ Esses são os projetos que considero mais relevantes no momento:
   <a href="https://github.com/marcoladograu157">
     <img src="https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer">
-</p>
-
+</div> 

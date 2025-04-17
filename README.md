@@ -86,21 +86,18 @@ Esses são os projetos que considero mais relevantes no momento:
   </a>
 </div>
 
-
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/marcotwe1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcotwe1&show_icons=true&theme=navy&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true">
+  <a href="https://github.com/marcoladograu157">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcoladograu157&show_icons=true&theme=navy&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true">
   </a>
-  <a href="https://github.com/marcotwe1">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotwe1&layout=compact&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&hide=php,python&langs_count=6">
+  <a href="https://github.com/marcoladograu157">
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoladograu157&layout=compact&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&hide=php,python&langs_count=6">
   </a>
 </div>
-
 
 ---
 
@@ -130,4 +127,4 @@ Esses são os projetos que considero mais relevantes no momento:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=60&section=footer">
-</div>
+</div> algo esta errado

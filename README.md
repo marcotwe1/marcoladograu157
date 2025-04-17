@@ -78,26 +78,28 @@ Aqui estão alguns projetos que representam bem minha evolução prática como d
 Esses são os projetos que considero mais relevantes no momento:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <a href="https://github.com/marcoladograu157/academia-api">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=academia-api&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <a href="https://github.com/marcotwe1/academia-api">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotwe1&repo=academia-api&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
   </a>
-  <a href="https://github.com/marcoladograu157/crud-mysql">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoladograu157&repo=crud-mysql&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <a href="https://github.com/marcotwe1/crud-mysql">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotwe1&repo=crud-mysql&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
   </a>
 </div>
+
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/marcoladograu157">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcoladograu157&show_icons=true&theme=navy&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true">
+  <a href="https://github.com/marcotwe1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marcotwe1&show_icons=true&theme=navy&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true">
   </a>
-  <a href="https://github.com/marcoladograu157">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoladograu157&layout=compact&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&hide=php,python&langs_count=6">
+  <a href="https://github.com/marcotwe1">
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotwe1&layout=compact&theme=navy&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&hide=php,python&langs_count=6">
   </a>
 </div>
+
 
 ---
 
